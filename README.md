@@ -28,7 +28,9 @@ Ver bitacora_fuentes.csv para detalle de origen, URL y fecha de descarga de cada
 | Farmacias con minisúper	| 464112	| 11,707
 | Guarderías privadas	    | 624411	| 6,977
 | Guarderías públicas	    | 624412	| 3,874
-| **Total consolidado**     |           | **79,958** |
+| Consultorios de medicina general del sector privado | 621111 | 34,635
+| Consultorios de medicina especializada del sector privado | 621113 | 29,679
+| **Total consolidado**     |           | **144,272** |
 
 
 ## Configuración del entorno
